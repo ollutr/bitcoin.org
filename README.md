@@ -33,7 +33,7 @@ Participation in this project is subject to a [Code of Conduct](https://github.c
 
 ### Donations
 
-Bitcoin.org is community supported: [3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa](bitcoin:3FkenCiXpSLqD8L79intRNXUgjRoH9sjXa)
+Bitcoin.org is community supported: [1LY6ui1AgYZkEuZ9763uypG7c4C2LPEvvL](bitcoin:1LY6ui1AgYZkEuZ9763uypG7c4C2LPEvvL)
 
 ### Questions?
 Please contact Will Binns ([will@bitcoin.org](mailto:will@bitcoin.org)) if you need help.
